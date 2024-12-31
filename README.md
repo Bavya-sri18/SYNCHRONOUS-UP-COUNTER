@@ -71,7 +71,7 @@ endmodule
 ![WhatsApp Image 2024-12-20 at 8 40 12 AM](https://github.com/user-attachments/assets/91e7cb81-cee7-4c96-8798-1e50097dd7b0)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 
 ![WhatsApp Image 2024-12-20 at 8 40 13 AM](https://github.com/user-attachments/assets/280e452c-ee51-4cab-b2f2-3f98197b91be)
 
